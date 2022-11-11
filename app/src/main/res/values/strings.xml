@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Offline Map</string>
+    <string name="location_permission_denied">Location permissions denied</string>
+</resources>
